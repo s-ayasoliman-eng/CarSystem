@@ -1,0 +1,9 @@
+Toyota Corolla
+Toyota
+350000
+BMW X5
+BMW
+1.2e+06
+Kia Sportage
+Kia
+800000

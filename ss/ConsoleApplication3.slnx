@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ConsoleApplication3.vcxproj" Id="1bae7996-d6fa-4ef9-a417-9e457e4207c6" />
+</Solution>
