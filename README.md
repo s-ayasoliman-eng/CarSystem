@@ -36,7 +36,7 @@ The project simulates a simple car dealership platform where users can manage ca
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Language:** C++
 - **IDE:** Visual Studio
@@ -91,6 +91,5 @@ This project demonstrates:
 
 ---
 
-##  Authors
-
-Developed as a university project for learning and practicing C++ programming concepts.
+##  Developed By 
+ayah ali
